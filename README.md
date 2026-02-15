@@ -1,6 +1,5 @@
 # Oral Cancer Detection using Empirical Wavelet Transform and Ensemble Deep Learning
 Frequency-domain enhanced deep learning framework for oral cancer detection using Empirical Wavelet Transform (EWT) and weighted ensemble transfer learning.
-# Oral Cancer Detection using Empirical Wavelet Transform and Ensemble Deep Learning
 
 ## Overview
 This project integrates frequency-domain preprocessing using Empirical Wavelet Transform (EWT) with transfer learning-based ensemble models for histopathological oral cancer classification.
