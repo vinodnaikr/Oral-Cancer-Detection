@@ -1,0 +1,3 @@
+# src/train.py
+def train_model(model, train_loader, val_loader, criterion, optimizer, epochs):
+    ...
